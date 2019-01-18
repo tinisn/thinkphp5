@@ -2,3 +2,6 @@
 composer.lock
 *.log
 thinkphp
+.gitignore
+index.html
+runtime
